@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "yourself",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"techname",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "truck",
+							"type": "Text"
+						}
+					],
+					[
+						"techcolor",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "#5dfa0a",
+							"type": "Color"
+						}
+					]
+				]
+			}
+		]
+	}
+]

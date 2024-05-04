@@ -1,0 +1,58 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"head": {
+				"__TYPE__": "FieldContent",
+				"value": "got",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"tit",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "story",
+							"type": "Text"
+						}
+					],
+					[
+						"time_period",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "similar",
+							"type": "Text"
+						}
+					],
+					[
+						"institution",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "away",
+							"type": "Text"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Sint aliqua adipisicing irure non velit enim nulla exercitation eu. Cillum deserunt officia voluptate proident ullamco adipisicing."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]

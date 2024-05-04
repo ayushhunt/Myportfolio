@@ -1,0 +1,20 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Proident nulla ad irure commodo anim aute non labore. Et tempor reprehenderit ullamco anim quis id anim."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
