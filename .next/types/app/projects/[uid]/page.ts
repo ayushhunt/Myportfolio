@@ -1,4 +1,4 @@
-// File: /home/nerrtarch/Documents/Padhai kar le/fsd/Nextjspractice/Portfolio3/AyushPortfolio2/src/app/projects/[uid]/page.tsx
+// File: C:\Users\ayush\OneDrive\Documents\Padhai kar le\fsd\Nextjspractice\Portfolio3\AyushPortfolio2\src\app\projects\[uid]\page.tsx
 import * as entry from '../../../../../src/app/projects/[uid]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
