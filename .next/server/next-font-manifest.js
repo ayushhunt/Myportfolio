@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/nerrtarch/Documents/Padhai kar le/fsd/Nextjspractice/Portfolio3/AyushPortfolio2/src/app/layout\":[\"static/media/01af0fc7b4278e65-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{},"appUsingSizeAdjust":false,"pagesUsingSizeAdjust":false}';
