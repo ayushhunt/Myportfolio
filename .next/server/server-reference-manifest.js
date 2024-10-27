@@ -1,1 +1,0 @@
-self.__RSC_SERVER_MANIFEST="{\"node\":{\"460422d969a916f393a5d38ed3766eaa48fc8cb2\":{\"workers\":{\"app/slice-simulator/page\":\"1316\"},\"layer\":{\"app/slice-simulator/page\":\"action-browser\"}}},\"edge\":{},\"encryptionKey\":\"egaws+FayNUp3Y8a7Osqs5kTFS/jyqFbwf4rn+2Mcjs=\"}"
